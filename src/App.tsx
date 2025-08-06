@@ -14,7 +14,7 @@ function App() {
             <div className="flex items-center justify-between">
               <Link to="/" className="flex items-center space-x-3">
                 <img
-                  src="src/assets/Manchester_United_FC_crest.svg.webp"
+                  src="https://upload.wikimedia.org/wikipedia/en/thumb/7/7a/Manchester_United_FC_crest.svg/1200px-Manchester_United_FC_crest.svg.png"
                   alt="logo"
                   className="w-12"
                 />
@@ -91,7 +91,7 @@ function App() {
           <div className="max-w-6xl mx-auto px-4 py-8">
             <div className="text-center">
               <img
-                src="/Manchester_United_FC_crest.svg.webp"
+                src="https://upload.wikimedia.org/wikipedia/en/thumb/7/7a/Manchester_United_FC_crest.svg/1200px-Manchester_United_FC_crest.svg.png"
                 alt="Manchester United Logo"
                 className="w-12 mx-auto"
               />

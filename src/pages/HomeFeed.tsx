@@ -115,7 +115,7 @@ const HomeFeed: React.FC = () => {
       <div className="text-center mb-8">
         <h1 className="text-4xl font-bold text-red-600 mb-2">
           <img
-            src="src/assets/Manchester_United_FC_crest.svg.webp"
+            src="https://upload.wikimedia.org/wikipedia/en/thumb/7/7a/Manchester_United_FC_crest.svg/1200px-Manchester_United_FC_crest.svg.png"
             alt="logo"
             className="w-12 mx-auto"
           />
