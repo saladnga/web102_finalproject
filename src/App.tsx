@@ -3,7 +3,6 @@ import { CreatePost } from "./pages/CreatePost";
 import PostPage from "./pages/PostPage";
 import HomeFeed from "./pages/HomeFeed";
 import EditPost from "./pages/EditPost";
-import ManUnitedLogo from "./assets/Manchester_United_FC_crest.svg.webp";
 import "./App.css";
 
 function App() {
@@ -92,7 +91,7 @@ function App() {
           <div className="max-w-6xl mx-auto px-4 py-8">
             <div className="text-center">
               <img
-                src={ManUnitedLogo}
+                src="/Manchester_United_FC_crest.svg.webp"
                 alt="Manchester United Logo"
                 className="w-12 mx-auto"
               />
